@@ -28,7 +28,7 @@ input[type=text], select {
     box-sizing: border-box;
   }
   
-  input[type=submit] {
+  button[type=submit] {
     width: 100%;
     background-color: #0039f3;
     color: white;
@@ -39,7 +39,7 @@ input[type=text], select {
     cursor: pointer;
   }
   
-  input[type=submit]:hover {
+  button[type=submit]:hover {
     background-color: #3000df;
   }
   
